@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+button{
+    height: 60px;
+    margin: 2px;
+    width: 50px;
+
+}
